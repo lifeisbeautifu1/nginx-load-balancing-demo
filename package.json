@@ -1,0 +1,14 @@
+{
+  "name": "nginx-load-balancer-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Alexey Poltoradnev",
+  "license": "MIN",
+  "description": "Demo no how to configure nginx as load balancer",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
